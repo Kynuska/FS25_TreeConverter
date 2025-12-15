@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <!-- Map overlay -->
+        <text name="tc_mapSelector_trees" text="Trees"/>
+        <text name="tc_button_convertSelected" text="Convert Selected"/>
+
+        <!-- Warnings/Messages -->
+        <text name="tc_warning_noTypesSelected" text="No tree types selected"/>
+        <text name="tc_warning_noStaticTrees" text="No static trees to convert"/>
+        <text name="tc_confirm_convert" text="Convert %d static trees of %d selected types?"/>
+        <text name="tc_message_converted" text="Converted %d trees. Save game to persist!"/>
+
+        <!-- Console command descriptions -->
+        <text name="tc_console_convert" text="Convert static trees to planted trees (50m radius)"/>
+        <text name="tc_console_convertRadius" text="Convert static trees in radius around player"/>
+        <text name="tc_console_convertAll" text="Convert ALL static trees on the map (may take a while)"/>
+        <text name="tc_console_convertSelected" text="Convert trees of types selected in map overlay"/>
+        <text name="tc_console_count" text="Count static trees in radius around player"/>
+    </texts>
+</l10n>

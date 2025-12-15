@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <!-- Map overlay -->
+        <text name="tc_mapSelector_trees" text="Baeume"/>
+        <text name="tc_button_convertSelected" text="Ausgewaehlte konvertieren"/>
+
+        <!-- Warnings/Messages -->
+        <text name="tc_warning_noTypesSelected" text="Keine Baumtypen ausgewaehlt"/>
+        <text name="tc_warning_noStaticTrees" text="Keine statischen Baeume zum Konvertieren"/>
+        <text name="tc_confirm_convert" text="%d statische Baeume von %d ausgewaehlten Typen konvertieren?"/>
+        <text name="tc_message_converted" text="%d Baeume konvertiert. Spiel speichern!"/>
+
+        <!-- Console command descriptions -->
+        <text name="tc_console_convert" text="Statische Baeume in gepflanzte Baeume umwandeln (50m Radius)"/>
+        <text name="tc_console_convertRadius" text="Statische Baeume im Radius um den Spieler umwandeln"/>
+        <text name="tc_console_convertAll" text="ALLE statischen Baeume auf der Karte umwandeln (kann dauern)"/>
+        <text name="tc_console_convertSelected" text="Baeume der im Kartenoverlay ausgewaehlten Typen umwandeln"/>
+        <text name="tc_console_count" text="Statische Baeume im Radius um den Spieler zaehlen"/>
+    </texts>
+</l10n>
